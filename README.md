@@ -29,25 +29,3 @@ https://quickcalc08.netlify.app
 
 A modern calculator application built using Flutter and Dart.
 
-## Features
-
-* Addition, Subtraction, Multiplication, Division
-* Percentage Calculations
-* Clear (C) and Delete (DEL) Functions
-* Responsive Layout
-* Dark Theme UI
-* Real-time Expression Evaluation
-* Web Deployment using Netlify
-
-## Tech Stack
-
-* Flutter
-* Dart
-* math_expressions
-* Netlify
-
-## Live Demo
-
-https://quickcalc08.netlify.app
-
-
