@@ -1,17 +1,53 @@
-# calculator_app
+# QuickCalc
 
-A new Flutter project.
+A modern calculator application built using Flutter and Dart.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+* Addition, Subtraction, Multiplication, Division
+* Percentage Calculations
+* Clear (C) and Delete (DEL) Functions
+* Responsive Layout
+* Dark Theme UI
+* Real-time Expression Evaluation
+* Web Deployment using Netlify
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+* Flutter
+* Dart
+* math_expressions
+* Netlify
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Live Demo
+
+https://quickcalc08.netlify.app
+
+## Screenshot
+<img width="1907" height="912" alt="image" src="https://github.com/user-attachments/assets/e6950f8d-bee5-4db1-bfad-62367cb19995" />
+# QuickCalc
+
+A modern calculator application built using Flutter and Dart.
+
+## Features
+
+* Addition, Subtraction, Multiplication, Division
+* Percentage Calculations
+* Clear (C) and Delete (DEL) Functions
+* Responsive Layout
+* Dark Theme UI
+* Real-time Expression Evaluation
+* Web Deployment using Netlify
+
+## Tech Stack
+
+* Flutter
+* Dart
+* math_expressions
+* Netlify
+
+## Live Demo
+
+https://quickcalc08.netlify.app
+
+
